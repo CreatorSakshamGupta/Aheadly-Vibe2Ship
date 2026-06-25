@@ -1,0 +1,6 @@
+{
+  "name": "Aheadly",
+  "description": "Premium professional productivity platform inspired by Linear, Notion, and Motion—help you stay ahead and finish smarter with intelligent schedules, procrastination simulators, and calm rescue modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
